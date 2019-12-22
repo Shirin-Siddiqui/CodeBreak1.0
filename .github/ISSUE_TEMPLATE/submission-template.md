@@ -10,10 +10,6 @@ assignees: ''
 ---
 name: CodeBreak 1.0 submission template
 about: Template for submissions of CodeBreak 1.0
-title: ''
-labels: ''
-assignees: ''
-
 ---
 
 **Before you start, please follow this format for your issue title**:  
@@ -29,7 +25,7 @@ _Please complete all applicable._
 - **Team Members**: _Mention their Names & tag their GitHub handles_
 - **Demo Link**: _Upload your project demo on YouTube/Drive and paste its link here_
 - **Repository Link**: _Provide us the link to your code_
-- **Labels**: _Mention the labels you wish to apply here_
+- **Labels**: _Mention the labels you wish to apply here such as AWS, Machine Learning, etc_
 
 ## 🔥 Your Pitch
 _Kindly write a pitch for your project. Please do not use more than 500 words_
