@@ -31,7 +31,7 @@ _Please complete all applicable._
 _Kindly write a pitch for your project. Please do not use more than 500 words_
 
 ## Technology Stack Used
-_(Optional)_
+
 
 ## 🔦 Any other specific thing you want to highlight?
 _(Optional)_
