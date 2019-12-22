@@ -13,7 +13,7 @@ about: Template for submissions of CodeBreak 1.0
 ---
 
 **Before you start, please follow this format for your issue title**:  
-TEAM NAME - PROJECT NAME
+TEAM NUMBER TEAM NAME-PROJECT NAME
 
 ## ℹ️ Project information
 _Please complete all applicable._
