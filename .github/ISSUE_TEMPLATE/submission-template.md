@@ -27,13 +27,15 @@ _Please complete all applicable._
 - **Team ID**:
 - **Team Name**:
 - **Team Members**: _Mention their Names & tag their GitHub handles_
-- **Demo Link**: _(if any, this might contain a website/ mobile application link/ short video, etc.)_
+- **Demo Link**: _Upload your project demo on YouTube/Drive and paste its link here_
 - **Repository Link**: _Provide us the link to your code_
 - **Labels**: _Mention the labels you wish to apply here_
 
 ## 🔥 Your Pitch
 _Kindly write a pitch for your project. Please do not use more than 500 words_
 
+## Technology Stack Used
+_(Optional)_
 
 ## 🔦 Any other specific thing you want to highlight?
 _(Optional)_
